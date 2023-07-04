@@ -1,3 +1,9 @@
+## Slider_App
+
+//Tools used
+->Reacttjs,TailwindCss,React-Icons
+->u can start project by cd slider and then enter npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
